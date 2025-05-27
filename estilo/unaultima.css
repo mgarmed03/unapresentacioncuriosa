@@ -1,0 +1,21 @@
+/* Fondo general */
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: #d0eaff; /* azul claro cielo */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Texto centrado */
+.centro p {
+    color: #004e89; /* azul profundo */
+    font-size: 2rem;
+    background-color: #e0f0ff; /* azul pastel */
+    padding: 20px 30px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px rgba(0, 78, 137, 0.2);
+    text-align: center;
+}
